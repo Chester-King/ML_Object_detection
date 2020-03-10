@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475106949747",
+    "firebase_url": "https://parko-cf8fc.firebaseio.com",
+    "project_id": "parko-cf8fc",
+    "storage_bucket": "parko-cf8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475106949747:android:aa2ef990938602bcc80806",
+        "android_client_info": {
+          "package_name": "com.example.parko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475106949747-qjgsvpccic3vro9pvolhfib7sud1tqij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parko",
+            "certificate_hash": "88a272d39cc913a0c2a9232354adfaf3a3c60af1"
+          }
+        },
+        {
+          "client_id": "475106949747-au3kvpb4ohtkceamh6mkttc9bl20m23m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXw-5U1wnFRV-W4UxTM1Bs_DjBIsBzNkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475106949747-au3kvpb4ohtkceamh6mkttc9bl20m23m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
